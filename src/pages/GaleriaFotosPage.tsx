@@ -51,7 +51,7 @@ export const GaleriaFotosPage = () => {
     categoria: 'aereas',
     fotografo: 'Pedro Costa',
     descricao: 'Vista aérea mostrando a extensão da floresta equatorial.',
-    url: 'https://i.pinimg.com/736x/28/86/3a/28863a50ad33514d5e38d89848378f28.jpg',
+    url: 'https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_28002_16651335598127288.jpg',
     data: '2024-02-01'
   }, {
     id: 4,
