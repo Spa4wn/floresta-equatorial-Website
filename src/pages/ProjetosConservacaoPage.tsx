@@ -19,7 +19,7 @@ export const ProjetosConservacaoPage = () => {
     dataInicio: '2024-01',
     voluntarios: 250,
     impacto: '500 hectares restaurados',
-    imagem: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5'
+    imagem: 'https://i.pinimg.com/736x/af/b0/d6/afb0d6469ae3d84cf2b9d053ac87ea2a.jpg'
   }, {
     id: 2,
     titulo: 'Proteção de Espécies Ameaçadas',
